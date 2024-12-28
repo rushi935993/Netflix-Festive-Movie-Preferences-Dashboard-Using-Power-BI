@@ -103,3 +103,6 @@ Easy to use with interactive filtering and clear visualizations.
 
 The Netflix Movie Preference Dashboard is a versatile tool that empowers users to explore and understand Netflix’s content trends in a meaningful way. Whether analyzing year-wise releases, content duration, or audience ratings, this report is an essential resource for data analysis and visualization.
 
+# Contact 
+
+Feel free to contact me on rushipatil935993@gmail.com for any collaboration or work related info.
