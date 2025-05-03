@@ -9,7 +9,8 @@ https://drive.google.com/file/d/1Et7nXXNiOPEIqIVyyO27kck8PgLK08st/view?usp=shari
 
 The Netflix Movie Preference Dashboard is a Power BI report designed to analyze Netflix's content library. It provides insights into the trends and patterns of shows, movies, and TV series available on Netflix from 2008 to 2021. This dashboard helps users explore content diversity based on release year, genre, duration, and ratings.
 
-![image](https://github.com/user-attachments/assets/3adbb93b-9b30-42ec-883f-7693f8553406)
+![image](https://github.com/user-attachments/assets/c46fb523-9dad-4746-9e66-61d5903ce2f1)
+
 
 
 # Features
